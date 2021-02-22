@@ -1,0 +1,15 @@
+Everybody thinks managers make decisions, and that decision-making is important. The bigger and more painful the decision, the bigger the manager must be to make it. That’s very deep and obvious, but it’s not actually true.
+
+The name of the game is to avoid having to make a decision. In particular, if somebody tells you “choose (a) or (b), we really need you to decide on this”, you’re in trouble as a manager. The people you manage had better know the details better than you, so if they come to you for a technical decision, you’re screwed. You’re clearly not competent to make that decision for them.
+
+(Corollary:if the people you manage don’t know the details better than you, you’re also screwed, although for a totally different reason. Namely that you are in the wrong job, and that they should be managing your brilliance instead).
+
+So the name of the game is to avoid decisions, at least the big and painful ones. Making small and non-consequential decisions is fine, and makes you look like you know what you’re doing, so what a kernel manager needs to do is to turn the big and painful ones into small things where nobody really cares.
+
+It helps to realize that the key difference between a big decision and a small one is whether you can fix your decision afterwards. Any decision can be made small by just always making sure that if you were wrong (and you will be wrong), you can always undo the damage later by backtracking. Suddenly, you get to be doubly managerial for making two inconsequential decisions - the wrong one and the right one.
+
+And people will even see that as true leadership (cough bullshit cough).
+
+Thus the key to avoiding big decisions becomes to just avoiding to do things that can’t be undone. Don’t get ushered into a corner from which you cannot escape. A cornered rat may be dangerous - a cornered manager is just pitiful.
+
+It turns out that since nobody would be stupid enough to ever really let a kernel manager have huge fiscal responsibility anyway, it’s usually fairly easy to backtrack. Since you’re not going to be able to waste huge amounts of money that you might not be able to repay, the only thing you can backtrack on is a technical decision, and there back-tracking is very easy: just tell everybody that you were an incompetent nincompoop, say you’re sorry, and undo all the worthless work you had people work on for the last year. Suddenly the decision you made a year ago wasn’t a big decision after all, since it could be easily undone.
